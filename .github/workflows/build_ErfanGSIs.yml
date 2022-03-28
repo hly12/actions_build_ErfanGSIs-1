@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://otafsc.h2os.com/patch/CHN/OnePlus5Hydrogen/OnePlus5Hydrogen_23.K.48_048_2002171234/OnePlus5Hydrogen_23_OTA_048_all_2002171234_d3e58941ea1fc4c.zip
-  ROM_NAME: Hydrogen
+  ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
