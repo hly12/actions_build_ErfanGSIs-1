@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
-  ROM_NAME: OxygenOS
+  ROM_NAME: Oxygen
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
