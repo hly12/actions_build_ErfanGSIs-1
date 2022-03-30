@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.O.20_GLO_020_1909172052/OnePlus7Oxygen_14.O.20_OTA_020_all_1909172052_2ac103c26f8.zip
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
   ROM_NAME: Oxygen
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
