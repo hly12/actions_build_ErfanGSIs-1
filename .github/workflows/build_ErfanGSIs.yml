@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://otafsc.h2os.com/patch/CHN/OnePlus5Hydrogen/OnePlus5Hydrogen_23.K.48_048_2002171234/OnePlus5Hydrogen_23_OTA_048_all_2002171234_d3e58941ea1fc4c.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_14.O.20_GLO_020_1909172052/OnePlus7Oxygen_14.O.20_OTA_020_all_1909172052_2ac103c26f8.zip
   ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
