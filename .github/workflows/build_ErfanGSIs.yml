@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip
-  ROM_NAME: OxygenOS
-  BUILD_TYPE: ab
+  ROM_URL: https://master.dl.sourceforge.net/project/evolution-x/polaris/evolution_polaris-ota-sq1d.211205.016.a1-12222133-unsigned.zip?viasf=1
+  ROM_NAME: Generic
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
