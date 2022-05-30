@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://master.dl.sourceforge.net/project/evolution-x/polaris/evolution_polaris-ota-sq1d.211205.016.a1-12222133-unsigned.zip?viasf=1
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/V12.0.9.0.QJCCNXM/miui_LANCELOT_V12.0.9.0.QJCCNXM_7132831d46_10.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
